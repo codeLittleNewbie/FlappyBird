@@ -1,23 +1,16 @@
-# FlappyBird
-Using canvas to draw birds of pixel little game,It will make you happy ☺ !
-
-### usage
-- use browser open the index.html
-- you can play FlappyBird now!
-
 ### 1.游戏开始
 - 1.创建`simple inheritance.js`
 	- [http://ejohn.org/blog/simple-javascript-inheritance/]()
 	- `Simple Class Creation and Inheritance` 修改中文标点
 - 2.添加`r.json`和`images`图片,`underscore-min.js`
 - 3.使用中介者设计模式
-	![](images/zjz2.png)
+	![](../image/zjz2.png)
 - 4.`Game.js` 中介者类
 - 5.初始化准备工作
 - 6.`Game.js` 添加功能 初始化方法 运行 游戏循环 暂停游戏 结束游戏
 - 7.实例化游戏对象
 - 8.`FPS`
-	![](images/fps.png)
+	![](../image/fps.png)
 	
 ### 2.游戏的帧数
 - 9.`FrameUtil` 帧的工具类
